@@ -19,6 +19,7 @@ namespace Blog.DAL.Tests
         {
             // arrange
             var context = new BlogContext();
+            
             context.Database.CreateIfNotExists();
             var repository = new BlogRepository();
             // act

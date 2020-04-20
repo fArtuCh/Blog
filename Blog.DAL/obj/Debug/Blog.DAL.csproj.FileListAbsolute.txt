@@ -1,0 +1,11 @@
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.csprojAssemblyReference.cache
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.csproj.CoreCompileInputs.cache
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.csproj.CopyComplete
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+E:\Studia\2Stopien\Sem3\Goluch\Lab2\Blog\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
